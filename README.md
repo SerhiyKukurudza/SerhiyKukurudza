@@ -35,8 +35,8 @@ Ask me about **Java, C#, Apache Kafka, DBT**, or how to integrate hardware compo
 ### ⚙️  GitHub Analytics
 
 <p align="center">
-  <img height="164.5" src="https://github-readme-stats.vercel.app/api?username=SerhiyKukurudza&show_icons=true&bg_color=252626&title_color=fff&text_color=cdd1d1&icon_color=5b99f5&locale=en&hide_border=0&include_all_commits=1&count_private=1&line_height=25" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerhiyKukurudza&layout=compact&show_icons=true&bg_color=252626&title_color=fff&text_color=cdd1d1&icon_color=5b99f5&locale=en&hide_border=0&include_all_commits=1&count_private=1&line_height=25" />
+  <img height="164.5" src="https://github-readme-stats.vercel.app/api?username=SerhiyKukurudza&theme=swift&include_all_commits=1&count_private=1&show_icons=true" />
+  <img height="164.5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerhiyKukurudza&layout=compact&theme=swift&include_all_commits=1&count_private=1&show_icons=true" />
 </p>
 
 ### 🤝🏻  Connect with Me
